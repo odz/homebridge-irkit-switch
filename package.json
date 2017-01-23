@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-irkit-switch",
+  "version": "0.0.1",
+  "description": "Homebridge plugin for IRKit switches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.3.2",
+    "homebridge": ">=0.2.0"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "Akira Oda <oda.org@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odz/homebridge-irkit-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/odz/homebridge-irkit-switch/issues"
+  },
+  "homepage": "https://github.com/odz/homebridge-irkit-switch#readme"
+}
